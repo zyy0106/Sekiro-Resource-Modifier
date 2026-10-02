@@ -1,0 +1,352 @@
+{
+  "1000": {
+    "id": 1000,
+    "name": "纸人",
+    "carry_max": 15,
+    "storage_max": 999,
+    "sort_id": 1020
+  },
+  "3000": {
+    "id": 3000,
+    "name": "伤药葫芦",
+    "carry_max": 10,
+    "storage_max": 0,
+    "sort_id": 1000
+  },
+  "3020": {
+    "id": 3020,
+    "name": "药丸",
+    "carry_max": 3,
+    "storage_max": 9999,
+    "sort_id": 1020
+  },
+  "3040": {
+    "id": 3040,
+    "name": "噬神",
+    "carry_max": 1,
+    "storage_max": 9999,
+    "sort_id": 1030
+  },
+  "3050": {
+    "id": 3050,
+    "name": "赤成珠",
+    "carry_max": 3,
+    "storage_max": 9999,
+    "sort_id": 1420
+  },
+  "3051": {
+    "id": 3051,
+    "name": "赤成珠",
+    "carry_max": 3,
+    "storage_max": 9999,
+    "sort_id": 1410
+  },
+  "3052": {
+    "id": 3052,
+    "name": "赤成珠",
+    "carry_max": 3,
+    "storage_max": 9999,
+    "sort_id": 1430
+  },
+  "3053": {
+    "id": 3053,
+    "name": "师弟的赤成珠",
+    "carry_max": 3,
+    "storage_max": 9999,
+    "sort_id": 1440
+  },
+  "3060": {
+    "id": 3060,
+    "name": "牡丹饼",
+    "carry_max": 1,
+    "storage_max": 9999,
+    "sort_id": 1080
+  },
+  "3061": {
+    "id": 3061,
+    "name": "牡丹饼",
+    "carry_max": 1,
+    "storage_max": 9999,
+    "sort_id": 1081
+  },
+  "3070": {
+    "id": 3070,
+    "name": "柿子",
+    "carry_max": 3,
+    "storage_max": 9999,
+    "sort_id": 1040
+  },
+  "3071": {
+    "id": 3071,
+    "name": "太郎柿",
+    "carry_max": 3,
+    "storage_max": 9999,
+    "sort_id": 1050
+  },
+  "3080": {
+    "id": 3080,
+    "name": "米",
+    "carry_max": 3,
+    "storage_max": 9999,
+    "sort_id": 1060
+  },
+  "3081": {
+    "id": 3081,
+    "name": "细雪",
+    "carry_max": 3,
+    "storage_max": 9999,
+    "sort_id": 1070
+  },
+  "3200": {
+    "id": 3200,
+    "name": "解毒粉",
+    "carry_max": 5,
+    "storage_max": 9999,
+    "sort_id": 1190
+  },
+  "3210": {
+    "id": 3210,
+    "name": "灭火粉",
+    "carry_max": 5,
+    "storage_max": 9999,
+    "sort_id": 1210
+  },
+  "3211": {
+    "id": 3211,
+    "name": "赤备灭火粉",
+    "carry_max": 5,
+    "storage_max": 9999,
+    "sort_id": 1220
+  },
+  "3220": {
+    "id": 3220,
+    "name": "驱怖粉",
+    "carry_max": 5,
+    "storage_max": 9999,
+    "sort_id": 1230
+  },
+  "3230": {
+    "id": 3230,
+    "name": "鳗鱼胆",
+    "carry_max": 5,
+    "storage_max": 9999,
+    "sort_id": 1240
+  },
+  "3250": {
+    "id": 3250,
+    "name": "中毒药",
+    "carry_max": 3,
+    "storage_max": 9999,
+    "sort_id": 1200
+  },
+  "3290": {
+    "id": 3290,
+    "name": "咬物",
+    "carry_max": 3,
+    "storage_max": 9999,
+    "sort_id": 1530
+  },
+  "3300": {
+    "id": 3300,
+    "name": "绿苔歪嘴葫芦",
+    "carry_max": 5,
+    "storage_max": 0,
+    "sort_id": 1130
+  },
+  "3310": {
+    "id": 3310,
+    "name": "红色干枯歪嘴葫芦",
+    "carry_max": 5,
+    "storage_max": 0,
+    "sort_id": 1150
+  },
+  "3320": {
+    "id": 3320,
+    "name": "紫斑歪嘴葫芦",
+    "carry_max": 5,
+    "storage_max": 0,
+    "sort_id": 1170
+  },
+  "3350": {
+    "id": 3350,
+    "name": "哼将之降灵",
+    "carry_max": 1,
+    "storage_max": 0,
+    "sort_id": 1250
+  },
+  "3360": {
+    "id": 3360,
+    "name": "夜叉戮之降灵",
+    "carry_max": 1,
+    "storage_max": 0,
+    "sort_id": 1290
+  },
+  "3370": {
+    "id": 3370,
+    "name": "哈将之降灵",
+    "carry_max": 1,
+    "storage_max": 0,
+    "sort_id": 1260
+  },
+  "3380": {
+    "id": 3380,
+    "name": "刚躯之降灵",
+    "carry_max": 1,
+    "storage_max": 0,
+    "sort_id": 1270
+  },
+  "3390": {
+    "id": 3390,
+    "name": "月隐之降灵",
+    "carry_max": 1,
+    "storage_max": 0,
+    "sort_id": 1280
+  },
+  "3400": {
+    "id": 3400,
+    "name": "哼将糖",
+    "carry_max": 3,
+    "storage_max": 9999,
+    "sort_id": 1300
+  },
+  "3410": {
+    "id": 3410,
+    "name": "夜叉戮糖",
+    "carry_max": 3,
+    "storage_max": 9999,
+    "sort_id": 1340
+  },
+  "3420": {
+    "id": 3420,
+    "name": "哈将糖",
+    "carry_max": 3,
+    "storage_max": 9999,
+    "sort_id": 1310
+  },
+  "3430": {
+    "id": 3430,
+    "name": "钢躯糖",
+    "carry_max": 3,
+    "storage_max": 9999,
+    "sort_id": 1320
+  },
+  "3440": {
+    "id": 3440,
+    "name": "月隐糖",
+    "carry_max": 3,
+    "storage_max": 9999,
+    "sort_id": 1330
+  },
+  "3450": {
+    "id": 3450,
+    "name": "神之飞雪",
+    "carry_max": 5,
+    "storage_max": 9999,
+    "sort_id": 1400
+  },
+  "3500": {
+    "id": 3500,
+    "name": "陶片",
+    "carry_max": 10,
+    "storage_max": 9999,
+    "sort_id": 1450
+  },
+  "3510": {
+    "id": 3510,
+    "name": "灰烬团",
+    "carry_max": 10,
+    "storage_max": 9999,
+    "sort_id": 1460
+  },
+  "3520": {
+    "id": 3520,
+    "name": "油",
+    "carry_max": 10,
+    "storage_max": 9999,
+    "sort_id": 1470
+  },
+  "3530": {
+    "id": 3530,
+    "name": "鸣种",
+    "carry_max": 10,
+    "storage_max": 9999,
+    "sort_id": 1480
+  },
+  "3600": {
+    "id": 3600,
+    "name": "招财壬生气球",
+    "carry_max": 5,
+    "storage_max": 9999,
+    "sort_id": 1350
+  },
+  "3610": {
+    "id": 3610,
+    "name": "招魂壬生气球",
+    "carry_max": 5,
+    "storage_max": 9999,
+    "sort_id": 1380
+  },
+  "3620": {
+    "id": 3620,
+    "name": "招物壬生气球",
+    "carry_max": 5,
+    "storage_max": 9999,
+    "sort_id": 1360
+  },
+  "3630": {
+    "id": 3630,
+    "name": "招纸人壬生气球",
+    "carry_max": 5,
+    "storage_max": 9999,
+    "sort_id": 1370
+  },
+  "3640": {
+    "id": 3640,
+    "name": "龙泉参拜之壬生气球",
+    "carry_max": 1,
+    "storage_max": 9999,
+    "sort_id": 1390
+  },
+  "3700": {
+    "id": 3700,
+    "name": "轻巧钱袋",
+    "carry_max": 99,
+    "storage_max": 9999,
+    "sort_id": 1570
+  },
+  "3704": {
+    "id": 3704,
+    "name": "沉重钱袋",
+    "carry_max": 99,
+    "storage_max": 9999,
+    "sort_id": 1580
+  },
+  "3708": {
+    "id": 3708,
+    "name": "快撑破的钱袋",
+    "carry_max": 99,
+    "storage_max": 9999,
+    "sort_id": 1590
+  },
+  "3720": {
+    "id": 3720,
+    "name": "襁褓地藏",
+    "carry_max": 1,
+    "storage_max": 9999,
+    "sort_id": 1110
+  },
+  "3721": {
+    "id": 3721,
+    "name": "阵左的襁褓地藏",
+    "carry_max": 1,
+    "storage_max": 9999,
+    "sort_id": 1120
+  },
+  "5600": {
+    "id": 5600,
+    "name": "龙胤露滴",
+    "carry_max": 1,
+    "storage_max": 9999,
+    "sort_id": 1100
+  }
+}

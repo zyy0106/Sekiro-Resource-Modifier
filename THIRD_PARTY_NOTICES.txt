@@ -1,0 +1,20 @@
+﻿Sekiro Resource Modifier — third-party runtime notices
+
+The Windows portable executable embeds Python 3.12.14 (including Tkinter),
+Tcl/Tk 8.6, and PyInstaller 6.22.3 bootloader/runtime components.
+Their original license texts are included in third_party_licenses/:
+
+- Python-LICENSE.txt: Python runtime and bundled third-party notices.
+- Tcl-license.terms: Tcl licensing terms.
+- Tk-license.terms: Tk licensing terms.
+- PyInstaller-COPYING.txt: PyInstaller licensing, bootloader distribution
+  exception, and Apache-2.0 terms for embedded run-time hooks/modules.
+
+These third-party terms apply to their respective components, not to the game.
+Microsoft Visual C++ runtime DLLs provided with the Windows Python runtime
+are also bundled where required by the executable. Microsoft retains the
+rights to those components.
+
+This is an unofficial independent utility, not affiliated with or endorsed
+by FromSoftware, Activision, or Valve. No game executable, game assets,
+player save files, or login credentials are distributed.

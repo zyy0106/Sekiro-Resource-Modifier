@@ -1,0 +1,19 @@
+# Never publish personal game data or credentials.
+*.sl2*
+*.bak
+*.dmp
+*.log
+settings.json
+backups/
+logs/
+qa/
+research/
+__pycache__/
+*.py[cod]
+.venv/
+build/
+dist/
+release/
+*.spec
+.env
+.env.*
